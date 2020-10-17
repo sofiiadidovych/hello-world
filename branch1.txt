@@ -1,0 +1,1 @@
+The Bash command pwd is used to print the 'present working directory'. pwd is equivalent to executing cd on a DOS(Windows console host) terminal. This is the folder or path that the current Bash session resides in.
